@@ -1,4 +1,5 @@
 ### Project: Michelle's portfolio web page
-[link to the project](https://l-michelle.github.io/portfolio/) 
+[link to the portfolio page](https://l-michelle.github.io/portfolio/) 
 ### Description
-`your project description`
+`Professional Portfolio Web Page`
+
